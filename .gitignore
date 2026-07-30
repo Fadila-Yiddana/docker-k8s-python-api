@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.envenv/ (the virtual environment folder)
+__pycache__/ (Python's compiled bytecode cache, auto-generated
+never needed in source control)
+.env (a file we'll create later for secret config values
