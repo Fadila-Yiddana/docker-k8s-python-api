@@ -12,7 +12,7 @@ next_id = 1
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to my Cloud-Native API"}
+    return {"message": "Welcome to my Cloud-Native API "}
 
 @app.get("/health")
 def health_check():
