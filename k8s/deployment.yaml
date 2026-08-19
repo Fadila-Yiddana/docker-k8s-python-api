@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: docker-k8s-python-api
 spec:
-  replicas: 2
+  replicas:  4
   selector:
     matchLabels:
       app: docker-k8s-python-api
