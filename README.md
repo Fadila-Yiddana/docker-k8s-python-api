@@ -122,7 +122,7 @@ Visit http://localhost:8080/docs.
 
 ## Roadmap
 
-- [x] Deployed to AWS EKS 2014 live 2-node cluster with Pods verified via kubectl and Swagger UI
+- [x] Deployed to AWS EKS — live 2-node cluster with Pods verified via kubectl and Swagger UI
 - [ ] Add Prometheus/Grafana or CloudWatch-based monitoring dashboards
 - [ ] Add a persistent database (currently in-memory storage)
 
